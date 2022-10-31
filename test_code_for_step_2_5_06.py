@@ -20,4 +20,5 @@ Sample Input 1:
 
 Sample Output 1:
 16
+
 '''
