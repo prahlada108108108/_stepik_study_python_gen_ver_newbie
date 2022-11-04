@@ -26,4 +26,5 @@ qwerty
 
 Sample Output 1:
 Пароль принят
+
 '''
